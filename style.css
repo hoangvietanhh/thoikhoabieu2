@@ -1,0 +1,29 @@
+body {
+    padding: 50px;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 10px;
+    border: 1px solid black;
+}
+td {
+    text-align: center;
+}
+.table1{
+    width: 50%;
+    border: hidden;
+}
+.tr1{
+    border: none;
+}
+.tdl{
+    border: none;
+    text-align: left;
+}
+.tdr{
+    border: none;
+    text-align: right;
+}
